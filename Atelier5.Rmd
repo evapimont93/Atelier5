@@ -47,6 +47,9 @@ imcenfant <- read.csv2("~/Dropbox/Public/Biostatistique/Donnees/imcenfant.csv")
 names(imcenfant)
 ```
 
+et de répondre a toutes les questions suivantes:
+
+
  1. Calculer l'IMC de tous les enfants et l'âge et rajoutez une colonne pour l'âge et une autre pour l' IMC.
  
 ```{r}
