@@ -118,9 +118,7 @@ Commentaire:
 Commentaire:
 
  
- 7
-
- . Est-ce que l'IMC chez les enfants dans une école située en zone d’éducation prioritaire est différent de les enfants qui ne sont pas dans une école située en zone d’éducation prioritaire?
+ 7. Est-ce que l'IMC chez les enfants dans une école située en zone d’éducation prioritaire est différent de les enfants qui ne sont pas dans une école située en zone d’éducation prioritaire?
  
 7.1 Donnez le résumé statistique de l'IMC chez les enfants dans une école située en zone d’éducation prioritaire.
 
